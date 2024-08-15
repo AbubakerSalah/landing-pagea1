@@ -43,7 +43,7 @@ function getActiclesData() {
 
                         <div class="bg-white flex flex-col rounded-md">
                               <img class="rounded-t-md" src=${item.image} alt=${item.alt}>
-                              <div class=" p-4  text-wrap md:w-52">
+                              <div class=" p-3  text-wrap md:w-52">
                                     <span class=" text-gray-500 text-xs">${item.author}</span>
                                     <h3 class=" text-blue-900 hover:text-green-400 text-sm font-light">${item.title}</h3>
                                     <p class=" text-gray-500 text-sm">${item.discription}</p>
