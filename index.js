@@ -46,7 +46,7 @@ function getActiclesData() {
                               <div class=" p-4  text-wrap md:w-52">
                                     <span class=" text-gray-500 text-xs">${item.author}</span>
                                     <h3 class=" text-blue-900 hover:text-green-400 text-sm font-light">${item.title}</h3>
-                                    <p class=" text-gray-500 text-xs">${item.discription}</p>
+                                    <p class=" text-gray-500 text-sm">${item.discription}</p>
                               </div>
                              
                         </div>
