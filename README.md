@@ -39,3 +39,4 @@ This is a simple and responsive landing page for **Easybank**, created using **H
 - **Careers**: Links to career opportunities.
 
 ---
+View the finished project on [Netlify](https://resilient-salamander-4c14ad.netlify.app/)!
